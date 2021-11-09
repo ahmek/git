@@ -1,6 +1,9 @@
 # git
 
 
+##### git rebase [分支]
+以基线合并某分支到当前分支，如：`git rebase dev`，则表示将 `dev` 改动合并到当前分支。如有冲突，则解决冲突，然后 `git add .`，然后 `git rebase --continue` 继续向下执行。特殊情况如需取消合并，则通过命令 `git rebase --abort` 取消。
+
 ##### git rebase -i 合并本地提交
 如果 `git rebase -i` 报错，则确认一下当前从哪个分支开的，如果当前分支来源于 `master`，则 `rebase -i master`;
 在跳出的编辑框中从第二行开始（如果有）把 `pick` 改为 `s`;
