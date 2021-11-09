@@ -3,3 +3,7 @@ new 2
 new 
 w
 xx
+swww
+qxxxx
+xxxccc
+xin
