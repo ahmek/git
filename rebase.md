@@ -1,10 +1,5 @@
 # git
 
-##### git switch -c 创建新分支
-
-创建一个 `feature/dev` 分支 `git switch -c feature/dev`
-
----
 
 ##### git rebase -i 合并本地提交
 如果 `git rebase -i` 报错，则确认一下当前从哪个分支开的，如果当前分支来源于 `master`，则 `rebase -i master`;
