@@ -15,7 +15,7 @@
 ---
 
 ##### git rebase -i 合并本地提交
-如果 `git rebase -i` 报错，则确认一下当前从哪个分支开的，如果当前分支来源于 `master`，则 `rebase -i master`;
+注意：如果 `git rebase -i` 报错，则确认一下当前从哪个分支开的，如果当前分支来源于 `master`，则 `rebase -i master`;
 在跳出的编辑框中从第二行开始（如果有）把 `pick` 改为 `s`;
 如果有冲突，处理完冲突后执行 `git add .`;
 如果合并未完成，执行 `git rebase --continue` 继续向前合并，重复第二、第三步操作直到全部完成。
