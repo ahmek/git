@@ -9,3 +9,6 @@
 #### [git 修复线上数据时分支的创建与合并规范](https://github.com/ahmek/gitt/blob/master/%E4%BF%AE%E5%A4%8D%E7%BA%BF%E4%B8%8A%E6%95%B0%E6%8D%AE%E6%97%B6%E7%9A%84%E5%88%86%E6%94%AF%E5%88%9B%E5%BB%BA%E4%B8%8E%E5%90%88%E5%B9%B6%E8%A7%84%E8%8C%83.md)
 
 
+更多相关命令持续补充。
+
+参考链接：[设置多帐户](https://www.cnblogs.com/hanguozhi/p/10878043.html)
