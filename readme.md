@@ -10,10 +10,11 @@
 
 
 参考链接：
-    [设置多帐户](https://www.cnblogs.com/hanguozhi/p/10878043.html)
 
-    [打标签](https://git-scm.com/book/zh/v2/Git-%E5%9F%BA%E7%A1%80-%E6%89%93%E6%A0%87%E7%AD%BE)
+[设置多帐户](https://www.cnblogs.com/hanguozhi/p/10878043.html)
 
-    [聊一下 git rebase -i](https://www.cnblogs.com/wangiqngpei557/p/5989292.html)
+[git 打标签](https://git-scm.com/book/zh/v2/Git-%E5%9F%BA%E7%A1%80-%E6%89%93%E6%A0%87%E7%AD%BE)
+
+[聊一下 git rebase -i](https://www.cnblogs.com/wangiqngpei557/p/5989292.html)
     
-    [Git- [!remote rejected]:refusing to delete the current branch](https://blog.csdn.net/qq_32452623/article/details/76684751)
+[Git- [!remote rejected]:refusing to delete the current branch](https://blog.csdn.net/qq_32452623/article/details/76684751)
