@@ -10,7 +10,7 @@
 ##### git pull –rebase origin master 
 如果远程分支有更新且当前分支在本地也有更新，`git push` 时报错，使用 `git pull –rebase origin master` 进行合并。
 
-`git pull –rebase origin master` 意为先取消 commit 记录，并且把它们临时保存为补丁(patch)(这些补丁放到”.git/rebase”目录中)，之后同步远程库到本地，最后合并补丁到本地库之中。
+`git pull –rebase origin master` 意为先取消 commit 记录，并且把它们临时保存为补丁(patch)(这些补丁放到”.git/rebase”目录中)，之后同步远程库到本地，最后合并补丁到本地库之中 。
 
 ---
 
